@@ -1,0 +1,5 @@
+package mavenproject.entities.organs;
+
+public class Eye {
+
+}
