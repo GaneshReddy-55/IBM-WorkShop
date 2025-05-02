@@ -25,12 +25,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.ibm.exceptions"/>
+			<item value="com.ibm.Accessm"/>
 			<item value="com.ibm.arrays"/>
 		</list>
 		<list key="groupId">
 			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
+			<item value="exceptions"/>
+			<item value="Accessm"/>
 			<item value="arrays"/>
 		</list>
 		<list key="projectNameTemplate">
