@@ -4,6 +4,13 @@
     <fullyQualifiedTypeName name="com.ibm.oops.Intern"/>
     <fullyQualifiedTypeName name="com.ibm.oops.Confirmed"/>
     <fullyQualifiedTypeName name="com.ibm.exceptions.ElectionVoting"/>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="com.ibm.exceptions.Arithmetic"/>
+    <fullyQualifiedTypeName name="java.awt.Point"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.ParameterizedTest"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.ValueSource"/>
+    <fullyQualifiedTypeName name="com.ibm.junit5.Calculator"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
 </qualifiedTypeNameHistroy>

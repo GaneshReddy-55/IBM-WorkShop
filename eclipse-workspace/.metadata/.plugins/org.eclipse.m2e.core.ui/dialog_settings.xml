@@ -25,6 +25,9 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.ibm.junit5"/>
+			<item value="com.ibm.objects"/>
+			<item value="com.ibm.threads"/>
 			<item value="com.ibm.exceptions"/>
 			<item value="com.ibm.Accessm"/>
 			<item value="com.ibm.arrays"/>
@@ -33,6 +36,9 @@
 			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
+			<item value="junit5"/>
+			<item value="objects"/>
+			<item value="threads"/>
 			<item value="exceptions"/>
 			<item value="Accessm"/>
 			<item value="arrays"/>
